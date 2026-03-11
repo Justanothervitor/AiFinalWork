@@ -1,0 +1,11 @@
+version: 3
+agent:
+  authtoken: {}
+
+tunnels:
+  ai-agent:
+     name : gradio-ai
+     url: piranha-wanted-shark.ngrok-free.app
+     addr: 127.0.0.1:7860
+     proto: http
+     inspect: true

@@ -1,0 +1,7 @@
+.env
+.gradio
+venv
+token.pickle
+credentials.json
+.idea
+__pycache__
